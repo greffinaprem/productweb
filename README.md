@@ -591,8 +591,8 @@ products.html
 
 
 ## HTML Validator
+![Screenshot (59)](https://user-images.githubusercontent.com/119475603/215309595-5a959968-25d7-490a-ad69-96e9d0933583.png)
 
-![Screenshot (59)](https://user-images.githubusercontent.com/119475603/215309460-338ee64d-7474-445a-b3f5-1303cfb5dfc3.png)
 
 
 
