@@ -259,7 +259,7 @@ people.html
                     <div class=logo></div>
                     <div class=h>
                     <a href="home.html" title="Home" style="color: darkred; text-decoration: none;"><b>Home</b></a></div>
-                    <div class="prod">
+                     <div class="prod">
                         <a href="products.html" title="Products" style="color: darkred; text-decoration: none;"><b>Products</b></a>
                     </div>
                     <div class="people">
@@ -581,20 +581,9 @@ products.html
 ```
 
 ## Output:
-![215159779-7916ebfc-f7ef-4315-ac6d-3098e139b292](https://user-images.githubusercontent.com/119475603/215309396-99b8866f-1cf3-4d52-b6d0-cdef69fcb3cf.png)
-
-![215159810-9cb48ac3-2da9-4083-afed-9558f20951a9](https://user-images.githubusercontent.com/119475603/215309408-b5e11711-3772-42f9-8ddc-24944e88a4a1.png)
-
-![jbhoik](https://user-images.githubusercontent.com/119475603/215309418-c9234b49-1c5e-4bb7-96de-096d4c6e04e6.png)
-
-![215159893-c6e8e8a1-37f4-4ff4-b9cc-db6a4a758fec](https://user-images.githubusercontent.com/119475603/215309424-7b78dfc8-b0ef-4fe4-a9bf-b651448968e6.png)
-
+![Screenshot (59)](https://user-images.githubusercontent.com/119475603/215309738-048122b3-7de8-4fe2-b8eb-307876645f88.png)
 
 ## HTML Validator
-![Screenshot (59)](https://user-images.githubusercontent.com/119475603/215309595-5a959968-25d7-490a-ad69-96e9d0933583.png)
-
-
-
 
 ## Result:
 The program for designing company website for sale of products using HTML and CSS is completed successfully.
