@@ -581,10 +581,11 @@ products.html
 ```
 
 ## Output:
-![image](https://user-images.githubusercontent.com/119475603/215309875-a6485e9f-7787-4499-bfd1-724a013317e4.png)
-![image](https://user-images.githubusercontent.com/119475603/215309977-64920b3a-1c50-47df-aa26-6edfec8a4cd7.png)
-![image](https://user-images.githubusercontent.com/119475603/215309955-586509c4-5525-452e-a94f-1350ecf23923.png)
-![image](https://user-images.githubusercontent.com/119475603/215310011-c866abd4-dbd7-447d-9e00-49b250609ce9.png)
+![215159779-7916ebfc-f7ef-4315-ac6d-3098e139b292](https://user-images.githubusercontent.com/119475603/215310112-af60082b-7305-4924-9328-963a47493a22.png)
+
+![jbhoik](https://user-images.githubu![215159810-9cb48ac3-2da9-4083-afed-9558f20951a9](https://user-images.githubusercontent.com/119475603/215310128-50dbdab0-e7bc-4b10-a710-18db1ee04684.png)
+sercontent.com/119475603/215310108-37decee4-7ce2-4458-b94a-487206acd7cf.png)
+![215159893-c6e8e8a1-37f4-4ff4-b9cc-db6a4a758fec](https://user-images.githubusercontent.com/119475603/215310117-606f8d82-d6d2-45b3-982f-b4d0d240551e.png)
 
 
 ## HTML Validator
