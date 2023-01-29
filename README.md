@@ -581,9 +581,14 @@ products.html
 ```
 
 ## Output:
-![Screenshot (59)](https://user-images.githubusercontent.com/119475603/215309738-048122b3-7de8-4fe2-b8eb-307876645f88.png)
+![image](https://user-images.githubusercontent.com/119475603/215309875-a6485e9f-7787-4499-bfd1-724a013317e4.png)
+![image](https://user-images.githubusercontent.com/119475603/215309977-64920b3a-1c50-47df-aa26-6edfec8a4cd7.png)
+![image](https://user-images.githubusercontent.com/119475603/215309955-586509c4-5525-452e-a94f-1350ecf23923.png)
+![image](https://user-images.githubusercontent.com/119475603/215310011-c866abd4-dbd7-447d-9e00-49b250609ce9.png)
+
 
 ## HTML Validator
+![Screenshot (59)](https://user-images.githubusercontent.com/119475603/215309738-048122b3-7de8-4fe2-b8eb-307876645f88.png)
 
 ## Result:
 The program for designing company website for sale of products using HTML and CSS is completed successfully.
