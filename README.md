@@ -582,12 +582,16 @@ products.html
 
 ## Output:
 ![215159779-7916ebfc-f7ef-4315-ac6d-3098e139b292](https://user-images.githubusercontent.com/119475603/215309396-99b8866f-1cf3-4d52-b6d0-cdef69fcb3cf.png)
+
 ![215159810-9cb48ac3-2da9-4083-afed-9558f20951a9](https://user-images.githubusercontent.com/119475603/215309408-b5e11711-3772-42f9-8ddc-24944e88a4a1.png)
+
 ![jbhoik](https://user-images.githubusercontent.com/119475603/215309418-c9234b49-1c5e-4bb7-96de-096d4c6e04e6.png)
+
 ![215159893-c6e8e8a1-37f4-4ff4-b9cc-db6a4a758fec](https://user-images.githubusercontent.com/119475603/215309424-7b78dfc8-b0ef-4fe4-a9bf-b651448968e6.png)
 
 
 ## HTML Validator
+
 ![Screenshot (59)](https://user-images.githubusercontent.com/119475603/215309460-338ee64d-7474-445a-b3f5-1303cfb5dfc3.png)
 
 
